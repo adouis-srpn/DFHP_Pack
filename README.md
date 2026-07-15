@@ -1,5 +1,5 @@
 # DFHP_Pack
-Dongfanghong Satellite Pads (DFHP) for Kerbal Space Program.There are DFH 2 to 5 pads.Of course, we brought Beidou, Chang'e,  NIGCOMSAT satellite pads to you, isn't it?
+Dongfanghong Satellite Pads (DFHP) for Kerbal Space Program.There are DFH 2 to 5 platforms.Of course, we brought Beidou, Chang'e,  NIGCOMSAT satellite platforms to you, isn't it?
 
 Here are a few of tips for you need to know and agree on before you start using this Mods:
 
